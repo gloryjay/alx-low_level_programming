@@ -1,16 +1,15 @@
-#include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 /**
- * main - entery point
- * Return: 0 (Success)
+ * main - Entery point
+ * 
+ * Return: Always Success
  */
 int main(void)
 {
-	int i = 0;
-	char text[] = "_putchar";
-while (text[i] != '\0')
-i++;
-}
-_putchar('\n');
+
+printf("_putchar\n");
 
 return (0);
 }
