@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entery point
- * 
+ *
  * Return: Always Success
  */
 int main(void)
