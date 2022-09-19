@@ -3,8 +3,9 @@
 /**
  * _strlen - returns the lenght of a string
  * @s: string
- * Return: return length of interger;
+ * Return: returns lenght of integer;
  */
+
 int _strlen(char *s)
 {
 	int len = 0;
