@@ -7,7 +7,6 @@
  * @n: an int given by the main function
  *
  */
-
 void print_array(int *a, int n)
 {
 	int i;
